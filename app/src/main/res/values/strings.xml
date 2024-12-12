@@ -6,4 +6,8 @@
   <string
     name="user_greeting"
     >Wsg</string>
+  <string
+    name="service_description"
+    >This is to </string>
+
 </resources>
