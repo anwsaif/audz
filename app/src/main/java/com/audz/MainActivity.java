@@ -17,31 +17,21 @@ public class MainActivity extends AppCompatActivity {
     final TextView helloTextView = (TextView) findViewById(R.id.text_view_id);
     helloTextView.setText(R.string.user_greeting);
 
-    if (isAccessibilityServiceEnabled(this, MyAccessibilityService.class)) {
-      // Service is running
-      // Log.d("ServiceStatus", "Accessibility Service is running.");
-      helloTextView.setText("Service is RUNNING!");
-    } else {
-      // Service is not running
-      // Log.d("ServiceStatus", "Accessibility Service is NOT running.");
-      helloTextView.setText("not running");
-    }
-
-    Intent intent = new Intent(android.provider.Settings.ACTION_ACCESSIBILITY_SETTINGS);
-    startActivity(intent);
+    // Intent intent = new Intent(android.provider.Settings.ACTION_ACCESSIBILITY_SETTINGS);
+    // startActivity(intent);
 
   }
-  public boolean isAccessibilityServiceEnabled(Context context, Class<?> serviceClass) {
-    AccessibilityManager am = (AccessibilityManager) context.getSystemService(Context.ACCESSIBILITY_SERVICE);
-    if (am == null) return false;
+  // public boolean isAccessibilityServiceEnabled(Context context, Class<?> serviceClass) {
+  //   AccessibilityManager am = (AccessibilityManager) context.getSystemService(Context.ACCESSIBILITY_SERVICE);
+  //   if (am == null) return false;
 
-    for (AccessibilityServiceInfo service : am.getEnabledAccessibilityServiceList(AccessibilityServiceInfo.FEEDBACK_ALL_MASK)) {
-      if (service.getId().contains(context.getPackageName() + "/" + serviceClass.getName())) {
-        return true;
-      }
-    }
-    return false;
-  }
+  //   for (AccessibilityServiceInfo service : am.getEnabledAccessibilityServiceList(AccessibilityServiceInfo.FEEDBACK_ALL_MASK)) {
+  //     if (service.getId().contains(context.getPackageName() + "/" + serviceClass.getName())) {
+  //       return true;
+  //     }
+  //   }
+  //   return false;
+  // }
 
 }
 
