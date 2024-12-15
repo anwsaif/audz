@@ -1,18 +1,83 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
   android:layout_width="match_parent"
   android:layout_height="match_parent"
-  android:orientation="vertical"
-  android:gravity="center">
+  android:paddingLeft="16dp"
+  android:paddingRight="16dp"
+  android:paddingTop="16dp"
+  android:orientation="vertical" >
 
-  <TextView
-    android:layout_width="wrap_content"
+  <LinearLayout
     android:layout_height="wrap_content"
-    android:text="Yo, Audz! this is from vscode !" />
-
-  <TextView
-    android:id="@+id/text_view_id"
-    android:layout_height="wrap_content"
-    android:layout_width="wrap_content"
-    android:text="@string/hello" />
+    android:layout_width="match_parent"
+    android:orientation="horizontal">
+    <TextView
+      android:layout_gravity="center_vertical"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:layout_weight="1"
+      android:text="Enable Feature"
+      android:textSize="20sp"
+      android:textColor="#000"
+      />
+    <com.google.android.material.materialswitch.MaterialSwitch
+      android:id="@+id/materialSwitch"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      style="@style/Widget.App.Switch"
+      app:thumbTint="@color/switch_thumb_tint"
+      app:trackTint="@color/switch_track_tint"
+      android:layout_gravity="end"
+      app:switchPadding="20dp"
+    />
   </LinearLayout>
-
+  <LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="horizontal">
+    <TextView
+      android:layout_gravity="center_vertical"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:layout_weight="1"
+      android:text="Enable Admin"
+      android:textSize="20sp"
+      android:textColor="#000"
+      />
+    <com.google.android.material.materialswitch.MaterialSwitch
+      android:id="@+id/materialSwitch"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      style="@style/Widget.App.Switch"
+      app:thumbTint="@color/switch_thumb_tint"
+      app:trackTint="@color/switch_track_tint"
+      android:layout_gravity="end"
+      app:switchPadding="20dp"
+      />
+    </LinearLayout>
+    <LinearLayout
+      android:layout_height="wrap_content"
+      android:layout_width="match_parent"
+      android:orientation="horizontal">
+      <TextView
+        android:layout_gravity="center_vertical"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Enable Accessibility"
+        android:textSize="20sp"
+        android:textColor="#000"
+        />
+      <com.google.android.material.materialswitch.MaterialSwitch
+        android:id="@+id/materialSwitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/Widget.App.Switch"
+        app:thumbTint="@color/switch_thumb_tint"
+        app:trackTint="@color/switch_track_tint"
+        app:switchPadding="20dp"
+        android:layout_gravity="end"
+        />
+    </LinearLayout>
+</LinearLayout>

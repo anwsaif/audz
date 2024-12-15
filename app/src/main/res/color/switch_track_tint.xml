@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Track color when ON -->
+    <item android:state_checked="true" android:color="#91c1ff" /> <!-- Light Gray -->
+    <!-- Track color when OFF -->
+    <item android:color="#EEEEEE" /> <!-- Lighter Gray -->
+</selector>
