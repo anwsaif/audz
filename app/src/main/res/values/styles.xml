@@ -5,4 +5,6 @@
     </style>
     <style name="Widget.App.Switch" parent="Widget.Material3.CompoundButton.MaterialSwitch">
     </style>
+    <style name="Widget.App.Dialog" parent="Widget.Material3.CompoundButton.MaterialSwitch">
+    </style>
 </resources>

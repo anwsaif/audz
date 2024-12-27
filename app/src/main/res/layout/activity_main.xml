@@ -8,7 +8,7 @@
   android:paddingTop="16dp"
   android:orientation="vertical" >
 
-  <LinearLayout
+  <!-- <LinearLayout
     android:layout_height="wrap_content"
     android:layout_width="match_parent"
     android:orientation="horizontal">
@@ -79,5 +79,68 @@
         app:switchPadding="20dp"
         android:layout_gravity="end"
         />
-    </LinearLayout>
+    </LinearLayout> -->
+
+  <!-- <LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="horizontal">
+    <TextView
+      android:layout_gravity="center_vertical"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:layout_weight="1"
+      android:text="Detect full URL"
+      android:textSize="16sp"
+      android:textColor="#000"
+      />
+    <com.google.android.material.materialswitch.MaterialSwitch
+      android:id="@+id/detectFullUrl"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      style="@style/Widget.App.Switch"
+      app:thumbTint="@color/switch_thumb_tint"
+      app:trackTint="@color/switch_track_tint"
+      app:switchPadding="20dp"
+      android:layout_gravity="end"
+      />
+  </LinearLayout> -->
+  <LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- <EditText
+        android:id="@+id/categoryInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Category" /> -->
+
+    <EditText
+        android:id="@+id/textInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Text" />
+
+    <Button
+        android:id="@+id/saveButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save" />
+    <Button
+        android:id="@+id/timerButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5 min ig" />
+
+    <TextView
+        android:id="@+id/displayTexts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:text="Saved Texts Will Appear Here" />
+</LinearLayout>
+
 </LinearLayout>

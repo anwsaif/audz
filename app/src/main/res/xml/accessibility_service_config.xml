@@ -1,9 +1,9 @@
   <accessibility-service
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:description="@string/service_description"
-    android:accessibilityEventTypes="typeWindowStateChanged|typeViewClicked"
+    android:accessibilityEventTypes="typeWindowStateChanged|typeViewClicked|typeWindowContentChanged"
+    android:accessibilityFlags="flagDefault|flagIncludeNotImportantViews|flagRequestTouchExplorationMode|flagRequestEnhancedWebAccessibility|flagReportViewIds|flagRetrieveInteractiveWindows|flagReportViewIds"
     android:canRetrieveWindowContent="true"
     android:accessibilityFeedbackType="feedbackSpoken"
-    android:accessibilityFlags="flagDefault"
     android:notificationTimeout="100"
     android:settingsActivity=".YourSettingsActivity" />

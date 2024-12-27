@@ -1,0 +1,3863 @@
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container_right;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: false;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/activity_and_camera_shared_views_main_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.ViewGroup;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container_main_panel;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container_main_wrapper;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container_main;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_recyclerview_parent_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/refreshable_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: androidx.recyclerview.widget.
+ecyclerView; text:
+null; error:
+null; maxTextLength:
+-1; contentDescription:
+null; tooltipText:
+null; viewIdResName: com.instagram.android:id
+recycler_view; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+false; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+true; importantForAccessibility:
+true; visible:
+true; a
+ctions: [AccessibilityAction: ACTION_FOCUS -
+ null, AccessibilityAction: ACTION_SELECT - 
+ null, AccessibilityAction: ACTION_CLEAR_SELECTION -
+  null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SCROLL_FORWARD - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by Rover at
+row 1, column 1; tooltipText:
+null; viewIdResName:
+com.instagram.android:id
+image_button; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; i
+mportantForAccessibility: true; visible: 
+true; actions: [AccessibilityAction: 
+ACTION_FOCUS - null, AccessibilityAction: 
+ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by Suara Batin
+at row 1, column 2; tooltipText
+ null; viewIdResName:
+ com.instagram.android:id
+ image_button; checkable:
+ false; checked:
+ false; focusable:
+ true; focused:
+ false; selected:
+ false; clickable:
+ true; longClickable:
+ false; contextClickable:
+ false; enabled:
+ true; password:
+ false; scrollable:
+ false; i
+ mportantForAccessibility: true; visible: 
+ true; actions: [AccessibilityAction: 
+ ACTION_FOCUS - null, AccessibilityAction: 
+ ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by BelajarAstro at
+row 2, column 1; tooltipText:
+null; viewIdResName:
+com.instagram.android:id
+image_button; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; i
+mportantForAccessibility: true; visible: 
+true; actions: [AccessibilityAction: 
+ACTION_FOCUS - null, AccessibilityAction: 
+ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by Turos Pustaka
+at row 2, column 2; tooltipText
+ null; viewIdResName:
+ com.instagram.android:id
+ image_button; checkable:
+ false; checked:
+ false; focusable:
+ true; focused:
+ false; selected:
+ false; clickable:
+ true; longClickable:
+ false; contextClickable:
+ false; enabled:
+ true; password:
+ false; scrollable:
+ false; i
+ mportantForAccessibility: true; visible: 
+ true; actions: [AccessibilityAction: 
+ ACTION_FOCUS - null, AccessibilityAction: 
+ ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container;
+checkable: false;
+checked: false;
+focusable: true;
+focused: false;
+selected: false;
+clickable: true;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: true;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_FOCUS - null, 
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.ImageView;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Reel 
+y amburabdoel at row
+1, column 3; tooltipText: null
+ viewIdResName: com.instagram
+ android:id/image_preview;
+ checkable: false;
+ checked: false;
+ focusable: true;
+ focused: false;
+ selected: false;
+ clickable: true;
+ longClickable: false;
+ contextClickable: false;
+ enabled: true;
+ password: false;
+ scrollable: false;
+ importantForAccessibility: t
+ rue; visible: true; 
+ actions: [AccessibilityAction: ACTION_FOCUS - 
+ null, AccessibilityAction: ACTION_SELECT -
+  null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.View;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: null; checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [AccessibilityAction:
+ACTION_SELECT - n
+ull, AccessibilityAction: ACTION_CLEAR_SELECTION -
+ null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - 
+ null, AccessibilityAction: ACTION_SHOW_ON_SCREEN -
+  null]
+packageName: com.instagram.android;
+
+
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container;
+checkable: false;
+checked: false;
+focusable: true;
+focused: false;
+selected: false;
+clickable: true;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: true;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_FOCUS - null, 
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.ImageView;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Reel 
+y Abu Abdil Bar
+at row 3, column 1; tooltipText
+ null; viewIdResName:
+ com.instagram.android:id
+ image_preview; checkable:
+ false; checked:
+ false; focusable:
+ true; focused:
+ false; selected:
+ false; clickable:
+ true; longClickable:
+ false; contextClickable:
+ false; enabled:
+ true; password:
+ false; scrollable:
+ false; i
+ mportantForAccessibility: true; visible: 
+ true; actions: [AccessibilityAction: 
+ ACTION_FOCUS - null, AccessibilityAction: 
+ ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by 𝗪𝗜𝗟𝗗 𝗟𝗔𝗠𝗔
+at row 3, column 2; tooltipText
+ null; viewIdResName:
+ com.instagram.android:id
+ image_button; checkable:
+ false; checked:
+ false; focusable:
+ true; focused:
+ false; selected:
+ false; clickable:
+ true; longClickable:
+ false; contextClickable:
+ false; enabled:
+ true; password:
+ false; scrollable:
+ false; i
+ mportantForAccessibility: true; visible: 
+ true; actions: [AccessibilityAction: 
+ ACTION_FOCUS - null, AccessibilityAction: 
+ ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Reel 
+y Shawn Ryan Show
+at row 3, column 3; tooltipText
+ null; viewIdResName:
+ com.instagram.android:id
+ image_button; checkable:
+ false; checked:
+ false; focusable:
+ true; focused:
+ false; selected:
+ false; clickable:
+ true; longClickable:
+ false; contextClickable:
+ false; enabled:
+ true; password:
+ false; scrollable:
+ false; i
+ mportantForAccessibility: true; visible: 
+ true; actions: [AccessibilityAction: 
+ ACTION_FOCUS - null, AccessibilityAction: 
+ ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by Al-Firqatun
+Najiyah at row 4, column 2;
+tooltipText: null;
+viewIdResName: com.instagram
+android:id/image_button;
+checkable: false;
+checked: false;
+focusable: true;
+focused: false;
+selected: false;
+clickable: true;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: f
+alse; importantForAccessibility: true; 
+visible: true; actions: 
+[AccessibilityAction: ACTION_FOCUS - null, 
+AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Photo 
+y Khadijah🧸❤️ at Row
+4, Column 3; tooltipText: null
+ viewIdResName: com.instagram
+ android:id/image_button;
+ checkable: false;
+ checked: false;
+ focusable: true;
+ focused: false;
+ selected: false;
+ clickable: true;
+ longClickable: false;
+ contextClickable: false;
+ enabled: true;
+ password: false;
+ scrollable: false;
+ importantForAccessibility: t
+ rue; visible: true; 
+ actions: [AccessibilityAction: ACTION_FOCUS - 
+ null, AccessibilityAction: ACTION_SELECT -
+  null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by Dunia Coding
+at row 5, column 1; tooltipText
+ null; viewIdResName:
+ com.instagram.android:id
+ image_button; checkable:
+ false; checked:
+ false; focusable:
+ true; focused:
+ false; selected:
+ false; clickable:
+ true; longClickable:
+ false; contextClickable:
+ false; enabled:
+ true; password:
+ false; scrollable:
+ false; i
+ mportantForAccessibility: true; visible: 
+ true; actions: [AccessibilityAction: 
+ ACTION_FOCUS - null, AccessibilityAction: 
+ ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by 𝘼𝙕𝙕𝘼 𝘼𝙇𝙃𝘼𝙈𝙄𝘿
+!! ❥ at row 5, column 2
+ tooltipText: null;
+ viewIdResName: com.instagram
+ android:id/image_button;
+ checkable: false;
+ checked: false;
+ focusable: true;
+ focused: false;
+ selected: false;
+ clickable: true;
+ longClickable: false;
+ contextClickable: false;
+ enabled: true;
+ password: false;
+ scrollable: f
+ alse; importantForAccessibility: true; 
+ visible: true; actions: 
+ [AccessibilityAction: ACTION_FOCUS - null, 
+ AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Photo 
+y HALAL | MEME
+| ISLAM at Row 6, Column 1
+ tooltipText: null;
+ viewIdResName: com.instagram
+ android:id/image_button;
+ checkable: false;
+ checked: false;
+ focusable: true;
+ focused: false;
+ selected: false;
+ clickable: true;
+ longClickable: false;
+ contextClickable: false;
+ enabled: true;
+ password: false;
+ scrollable: f
+ alse; importantForAccessibility: true; 
+ visible: true; actions: 
+ [AccessibilityAction: ACTION_FOCUS - null, 
+ AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Photo 
+y Astrophotography World at
+Row 6, Column 2; tooltipText:
+null; viewIdResName:
+com.instagram.android:id
+image_button; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; i
+mportantForAccessibility: true; visible: 
+true; actions: [AccessibilityAction: 
+ACTION_FOCUS - null, AccessibilityAction: 
+ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container;
+checkable: false;
+checked: false;
+focusable: true;
+focused: false;
+selected: false;
+clickable: true;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: true;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_FOCUS - null, 
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.ImageView;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Reel 
+y BMW EDITS at
+row 5, column 3; tooltipText:
+null; viewIdResName:
+com.instagram.android:id
+image_preview; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; i
+mportantForAccessibility: true; visible: 
+true; actions: [AccessibilityAction: 
+ACTION_FOCUS - null, AccessibilityAction: 
+ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar_wrapper;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.LinearLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar;
+checkable: false;
+checked: false;
+focusable: true;
+focused: false;
+selected: false;
+clickable: true;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_FOCUS - null, 
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar_textview_custom_title_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar_search_hints_text_layout;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.EditText;
+text: Search;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar_search_edit_text;
+checkable: false;
+checked: false;
+focusable: true;
+focused: false;
+selected: false;
+clickable: true;
+longClickable: true;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: true;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_FOCUS - null, 
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_LONG_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SET_TEXT - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.LinearLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar_new_title_container;
+checkable: false;
+checked: false;
+focusable: true;
+focused: false;
+selected: false;
+clickable: true;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: true;
+visible: false;
+actions: [
+  AccessibilityAction: ACTION_FOCUS - null, 
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.View;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/tab_bar_shadow;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.LinearLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/tab_bar;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Home;
+tooltipText: 1 of
+5; viewIdResName: com.instagram.android:id
+feed_tab; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+true; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; importantForAccessibility:
+true; visible:
+true; a
+ctions: [AccessibilityAction: ACTION_FOCUS -
+ null, AccessibilityAction: ACTION_SELECT - 
+ null, AccessibilityAction: ACTION_CLEAR_SELECTION -
+  null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_LONG_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.ViewGroup;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/wrapper;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.ImageView;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/tab_icon;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Search 
+nd explore; tooltipText
+ 2 of 5; viewIdResName: com.instagram
+ android:id/search_tab;
+ checkable: false;
+ checked: false;
+ focusable: true;
+ focused: false;
+ selected: true;
+ clickable: true;
+ longClickable: true;
+ contextClickable: false;
+ enabled: true;
+ password: false;
+ scrollable: false;
+ importantForAccessibility: true;
+ visible: t
+ rue; actions: [AccessibilityAction: 
+ ACTION_FOCUS - null, AccessibilityAction: 
+ ACTION_SELECT - null, AccessibilityAction: 
+ ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_LONG_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.ImageView;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/tab_icon;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: true;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Create;
+tooltipText: 3 of
+5; viewIdResName: com.instagram.android:id
+creation_tab; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; importantForAccessibility:
+true; visible:
+true; a
+ctions: [AccessibilityAction: ACTION_FOCUS -
+ null, AccessibilityAction: ACTION_SELECT - 
+ null, AccessibilityAction: ACTION_CLEAR_SELECTION -
+  null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.ImageView;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/tab_icon;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Reels;
+tooltipText: 4 of
+5; viewIdResName: com.instagram.android:id
+clips_tab; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; importantForAccessibility:
+true; visible:
+true; a
+ctions: [AccessibilityAction: ACTION_FOCUS -
+ null, AccessibilityAction: ACTION_SELECT - 
+ null, AccessibilityAction: ACTION_CLEAR_SELECTION -
+  null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.ImageView;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/tab_icon;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Profile;
+tooltipText: 5 of
+5; viewIdResName: com.instagram.android:id
+profile_tab; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+true; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; importantForAccessibility:
+true; visible:
+true; a
+ctions: [AccessibilityAction: ACTION_FOCUS -
+ null, AccessibilityAction: ACTION_SELECT - 
+ null, AccessibilityAction: ACTION_CLEAR_SELECTION -
+  null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_LONG_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.ViewGroup;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/wrapper;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.ImageView;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/tab_avatar;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.View;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/dot_badge;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/ls_vertical_nav_bar_stub;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: false;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/bottom_sheet_camera_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/modal_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/overlay_layout_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.View;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: android:id/statusBarBackground; checkable:
+false; checked:
+false; focusable:
+false; focused:
+false; selected:
+false; clickable:
+false; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; importantForAccessibility:
+false; visible:
+false; actions:
+[AccessibilityAction: A
+CTION_SELECT - null, AccessibilityAction: 
+ACTION_CLEAR_SELECTION - null, AccessibilityAction: 
+ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: 
+ACTION_SHOW_ON_SCREEN - null]
+packageName: com.instagram.android;
+
+
+className: android.view.View;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: android:id/navigationBarBackground; checkable:
+false; checked:
+false; focusable:
+false; focused:
+false; selected:
+false; clickable:
+false; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; importantForAccessibility:
+false; visible:
+false; actions:
+[AccessibilityAction: A
+CTION_SELECT - null, AccessibilityAction: 
+ACTION_CLEAR_SELECTION - null, AccessibilityAction: 
+ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: 
+ACTION_SHOW_ON_SCREEN - null]
+packageName: com.instagram.android;
+
+
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: null; checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: true;
+visible: true;
+actions: [AccessibilityAction:
+ACTION_SELECT - n
+ull, AccessibilityAction: ACTION_CLEAR_SELECTION -
+ null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - 
+ null, AccessibilityAction: ACTION_SHOW_ON_SCREEN -
+  null]
+packageName: com.instagram.android;
+
+
+className: android.widget.LinearLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: null; checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [AccessibilityAction:
+ACTION_SELECT - n
+ull, AccessibilityAction: ACTION_CLEAR_SELECTION -
+ null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - 
+ null, AccessibilityAction: ACTION_SHOW_ON_SCREEN -
+  null]
+packageName: com.instagram.android;
+
+
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: null; checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [AccessibilityAction:
+ACTION_SELECT - n
+ull, AccessibilityAction: ACTION_CLEAR_SELECTION -
+ null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - 
+ null, AccessibilityAction: ACTION_SHOW_ON_SCREEN -
+  null]
+packageName: com.instagram.android;
+
+
+className: android.widget.LinearLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar_root;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: android:id/content; checkable:
+false; checked:
+false; focusable:
+false; focused:
+false; selected:
+false; clickable:
+false; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; importantForAccessibility:
+false; visible:
+true; actions:
+[AccessibilityAction: A
+CTION_SELECT - null, AccessibilityAction: 
+ACTION_CLEAR_SELECTION - null, AccessibilityAction: 
+ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: 
+ACTION_SHOW_ON_SCREEN - null]
+packageName: com.instagram.android;
+
+
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: null; checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [AccessibilityAction:
+ACTION_SELECT - n
+ull, AccessibilityAction: ACTION_CLEAR_SELECTION -
+ null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - 
+ null, AccessibilityAction: ACTION_SHOW_ON_SCREEN -
+  null]
+packageName: com.instagram.android;
+
+
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/swipe_navigation_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.ViewGroup;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container_center_right_coordinator_layout;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: true;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container_right;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: false;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/activity_and_camera_shared_views_main_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.ViewGroup;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container_main_panel;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container_main_wrapper;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container_main;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_recyclerview_parent_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/refreshable_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: androidx.recyclerview.widget.
+ecyclerView; text:
+null; error:
+null; maxTextLength:
+-1; contentDescription:
+null; tooltipText:
+null; viewIdResName: com.instagram.android:id
+recycler_view; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+false; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+true; importantForAccessibility:
+true; visible:
+true; a
+ctions: [AccessibilityAction: ACTION_FOCUS -
+ null, AccessibilityAction: ACTION_SELECT - 
+ null, AccessibilityAction: ACTION_CLEAR_SELECTION -
+  null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SCROLL_FORWARD - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by Rover at
+row 1, column 1; tooltipText:
+null; viewIdResName:
+com.instagram.android:id
+image_button; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; i
+mportantForAccessibility: true; visible: 
+true; actions: [AccessibilityAction: 
+ACTION_FOCUS - null, AccessibilityAction: 
+ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by Suara Batin
+at row 1, column 2; tooltipText
+ null; viewIdResName:
+ com.instagram.android:id
+ image_button; checkable:
+ false; checked:
+ false; focusable:
+ true; focused:
+ false; selected:
+ false; clickable:
+ true; longClickable:
+ false; contextClickable:
+ false; enabled:
+ true; password:
+ false; scrollable:
+ false; i
+ mportantForAccessibility: true; visible: 
+ true; actions: [AccessibilityAction: 
+ ACTION_FOCUS - null, AccessibilityAction: 
+ ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by BelajarAstro at
+row 2, column 1; tooltipText:
+null; viewIdResName:
+com.instagram.android:id
+image_button; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; i
+mportantForAccessibility: true; visible: 
+true; actions: [AccessibilityAction: 
+ACTION_FOCUS - null, AccessibilityAction: 
+ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by Turos Pustaka
+at row 2, column 2; tooltipText
+ null; viewIdResName:
+ com.instagram.android:id
+ image_button; checkable:
+ false; checked:
+ false; focusable:
+ true; focused:
+ false; selected:
+ false; clickable:
+ true; longClickable:
+ false; contextClickable:
+ false; enabled:
+ true; password:
+ false; scrollable:
+ false; i
+ mportantForAccessibility: true; visible: 
+ true; actions: [AccessibilityAction: 
+ ACTION_FOCUS - null, AccessibilityAction: 
+ ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container;
+checkable: false;
+checked: false;
+focusable: true;
+focused: false;
+selected: false;
+clickable: true;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: true;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_FOCUS - null, 
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.View;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: null; checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [AccessibilityAction:
+ACTION_SELECT - n
+ull, AccessibilityAction: ACTION_CLEAR_SELECTION -
+ null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - 
+ null, AccessibilityAction: ACTION_SHOW_ON_SCREEN -
+  null]
+packageName: com.instagram.android;
+
+
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container;
+checkable: false;
+checked: false;
+focusable: true;
+focused: false;
+selected: false;
+clickable: true;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: true;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_FOCUS - null, 
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.ImageView;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Reel 
+y Abu Abdil Bar
+at row 3, column 1; tooltipText
+ null; viewIdResName:
+ com.instagram.android:id
+ image_preview; checkable:
+ false; checked:
+ false; focusable:
+ true; focused:
+ false; selected:
+ false; clickable:
+ true; longClickable:
+ false; contextClickable:
+ false; enabled:
+ true; password:
+ false; scrollable:
+ false; i
+ mportantForAccessibility: true; visible: 
+ true; actions: [AccessibilityAction: 
+ ACTION_FOCUS - null, AccessibilityAction: 
+ ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by 𝗪𝗜𝗟𝗗 𝗟𝗔𝗠𝗔
+at row 3, column 2; tooltipText
+ null; viewIdResName:
+ com.instagram.android:id
+ image_button; checkable:
+ false; checked:
+ false; focusable:
+ true; focused:
+ false; selected:
+ false; clickable:
+ true; longClickable:
+ false; contextClickable:
+ false; enabled:
+ true; password:
+ false; scrollable:
+ false; i
+ mportantForAccessibility: true; visible: 
+ true; actions: [AccessibilityAction: 
+ ACTION_FOCUS - null, AccessibilityAction: 
+ ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Reel 
+y Shawn Ryan Show
+at row 3, column 3; tooltipText
+ null; viewIdResName:
+ com.instagram.android:id
+ image_button; checkable:
+ false; checked:
+ false; focusable:
+ true; focused:
+ false; selected:
+ false; clickable:
+ true; longClickable:
+ false; contextClickable:
+ false; enabled:
+ true; password:
+ false; scrollable:
+ false; i
+ mportantForAccessibility: true; visible: 
+ true; actions: [AccessibilityAction: 
+ ACTION_FOCUS - null, AccessibilityAction: 
+ ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by Al-Firqatun
+Najiyah at row 4, column 2;
+tooltipText: null;
+viewIdResName: com.instagram
+android:id/image_button;
+checkable: false;
+checked: false;
+focusable: true;
+focused: false;
+selected: false;
+clickable: true;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: f
+alse; importantForAccessibility: true; 
+visible: true; actions: 
+[AccessibilityAction: ACTION_FOCUS - null, 
+AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Photo 
+y Khadijah🧸❤️ at Row
+4, Column 3; tooltipText: null
+ viewIdResName: com.instagram
+ android:id/image_button;
+ checkable: false;
+ checked: false;
+ focusable: true;
+ focused: false;
+ selected: false;
+ clickable: true;
+ longClickable: false;
+ contextClickable: false;
+ enabled: true;
+ password: false;
+ scrollable: false;
+ importantForAccessibility: t
+ rue; visible: true; 
+ actions: [AccessibilityAction: ACTION_FOCUS - 
+ null, AccessibilityAction: ACTION_SELECT -
+  null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by Dunia Coding
+at row 5, column 1; tooltipText
+ null; viewIdResName:
+ com.instagram.android:id
+ image_button; checkable:
+ false; checked:
+ false; focusable:
+ true; focused:
+ false; selected:
+ false; clickable:
+ true; longClickable:
+ false; contextClickable:
+ false; enabled:
+ true; password:
+ false; scrollable:
+ false; i
+ mportantForAccessibility: true; visible: 
+ true; actions: [AccessibilityAction: 
+ ACTION_FOCUS - null, AccessibilityAction: 
+ ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by 𝘼𝙕𝙕𝘼 𝘼𝙇𝙃𝘼𝙈𝙄𝘿
+!! ❥ at row 5, column 2
+ tooltipText: null;
+ viewIdResName: com.instagram
+ android:id/image_button;
+ checkable: false;
+ checked: false;
+ focusable: true;
+ focused: false;
+ selected: false;
+ clickable: true;
+ longClickable: false;
+ contextClickable: false;
+ enabled: true;
+ password: false;
+ scrollable: f
+ alse; importantForAccessibility: true; 
+ visible: true; actions: 
+ [AccessibilityAction: ACTION_FOCUS - null, 
+ AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Photo 
+y HALAL | MEME
+| ISLAM at Row 6, Column 1
+ tooltipText: null;
+ viewIdResName: com.instagram
+ android:id/image_button;
+ checkable: false;
+ checked: false;
+ focusable: true;
+ focused: false;
+ selected: false;
+ clickable: true;
+ longClickable: false;
+ contextClickable: false;
+ enabled: true;
+ password: false;
+ scrollable: f
+ alse; importantForAccessibility: true; 
+ visible: true; actions: 
+ [AccessibilityAction: ACTION_FOCUS - null, 
+ AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Photo 
+y Astrophotography World at
+Row 6, Column 2; tooltipText:
+null; viewIdResName:
+com.instagram.android:id
+image_button; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; i
+mportantForAccessibility: true; visible: 
+true; actions: [AccessibilityAction: 
+ACTION_FOCUS - null, AccessibilityAction: 
+ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container;
+checkable: false;
+checked: false;
+focusable: true;
+focused: false;
+selected: false;
+clickable: true;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: true;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_FOCUS - null, 
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.ImageView;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Reel 
+y BMW EDITS at
+row 5, column 3; tooltipText:
+null; viewIdResName:
+com.instagram.android:id
+image_preview; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; i
+mportantForAccessibility: true; visible: 
+true; actions: [AccessibilityAction: 
+ACTION_FOCUS - null, AccessibilityAction: 
+ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar_wrapper;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.LinearLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar;
+checkable: false;
+checked: false;
+focusable: true;
+focused: false;
+selected: false;
+clickable: true;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_FOCUS - null, 
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar_textview_custom_title_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar_search_hints_text_layout;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.EditText;
+text: Search;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar_search_edit_text;
+checkable: false;
+checked: false;
+focusable: true;
+focused: false;
+selected: false;
+clickable: true;
+longClickable: true;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: true;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_FOCUS - null, 
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_LONG_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SET_TEXT - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.LinearLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar_new_title_container;
+checkable: false;
+checked: false;
+focusable: true;
+focused: false;
+selected: false;
+clickable: true;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: true;
+visible: false;
+actions: [
+  AccessibilityAction: ACTION_FOCUS - null, 
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.View;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/tab_bar_shadow;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.LinearLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/tab_bar;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Home;
+tooltipText: 1 of
+5; viewIdResName: com.instagram.android:id
+feed_tab; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+true; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; importantForAccessibility:
+true; visible:
+true; a
+ctions: [AccessibilityAction: ACTION_FOCUS -
+ null, AccessibilityAction: ACTION_SELECT - 
+ null, AccessibilityAction: ACTION_CLEAR_SELECTION -
+  null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_LONG_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.ViewGroup;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/wrapper;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.ImageView;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/tab_icon;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Search 
+nd explore; tooltipText
+ 2 of 5; viewIdResName: com.instagram
+ android:id/search_tab;
+ checkable: false;
+ checked: false;
+ focusable: true;
+ focused: false;
+ selected: true;
+ clickable: true;
+ longClickable: true;
+ contextClickable: false;
+ enabled: true;
+ password: false;
+ scrollable: false;
+ importantForAccessibility: true;
+ visible: t
+ rue; actions: [AccessibilityAction: 
+ ACTION_FOCUS - null, AccessibilityAction: 
+ ACTION_SELECT - null, AccessibilityAction: 
+ ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_LONG_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.ImageView;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/tab_icon;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: true;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Create;
+tooltipText: 3 of
+5; viewIdResName: com.instagram.android:id
+creation_tab; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; importantForAccessibility:
+true; visible:
+true; a
+ctions: [AccessibilityAction: ACTION_FOCUS -
+ null, AccessibilityAction: ACTION_SELECT - 
+ null, AccessibilityAction: ACTION_CLEAR_SELECTION -
+  null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.ImageView;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/tab_icon;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Reels;
+tooltipText: 4 of
+5; viewIdResName: com.instagram.android:id
+clips_tab; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; importantForAccessibility:
+true; visible:
+true; a
+ctions: [AccessibilityAction: ACTION_FOCUS -
+ null, AccessibilityAction: ACTION_SELECT - 
+ null, AccessibilityAction: ACTION_CLEAR_SELECTION -
+  null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.ImageView;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/tab_icon;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: Profile;
+tooltipText: 5 of
+5; viewIdResName: com.instagram.android:id
+profile_tab; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+true; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; importantForAccessibility:
+true; visible:
+true; a
+ctions: [AccessibilityAction: ACTION_FOCUS -
+ null, AccessibilityAction: ACTION_SELECT - 
+ null, AccessibilityAction: ACTION_CLEAR_SELECTION -
+  null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_LONG_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.ViewGroup;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/wrapper;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.ImageView;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/tab_avatar;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.View;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/dot_badge;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/ls_vertical_nav_bar_stub;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: false;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/bottom_sheet_camera_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/modal_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/overlay_layout_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.View;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: android:id/statusBarBackground; checkable:
+false; checked:
+false; focusable:
+false; focused:
+false; selected:
+false; clickable:
+false; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; importantForAccessibility:
+false; visible:
+false; actions:
+[AccessibilityAction: A
+CTION_SELECT - null, AccessibilityAction: 
+ACTION_CLEAR_SELECTION - null, AccessibilityAction: 
+ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: 
+ACTION_SHOW_ON_SCREEN - null]
+packageName: com.instagram.android;
+
+
+className: android.view.View;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: android:id/navigationBarBackground; checkable:
+false; checked:
+false; focusable:
+false; focused:
+false; selected:
+false; clickable:
+false; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; importantForAccessibility:
+false; visible:
+false; actions:
+[AccessibilityAction: A
+CTION_SELECT - null, AccessibilityAction: 
+ACTION_CLEAR_SELECTION - null, AccessibilityAction: 
+ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: 
+ACTION_SHOW_ON_SCREEN - null]
+packageName: com.instagram.android;
+
+
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: null; checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: true;
+visible: true;
+actions: [AccessibilityAction:
+ACTION_SELECT - n
+ull, AccessibilityAction: ACTION_CLEAR_SELECTION -
+ null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - 
+ null, AccessibilityAction: ACTION_SHOW_ON_SCREEN -
+  null]
+packageName: com.instagram.android;
+
+
+className: android.widget.LinearLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: null; checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [AccessibilityAction:
+ACTION_SELECT - n
+ull, AccessibilityAction: ACTION_CLEAR_SELECTION -
+ null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - 
+ null, AccessibilityAction: ACTION_SHOW_ON_SCREEN -
+  null]
+packageName: com.instagram.android;
+
+
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: null; checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [AccessibilityAction:
+ACTION_SELECT - n
+ull, AccessibilityAction: ACTION_CLEAR_SELECTION -
+ null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - 
+ null, AccessibilityAction: ACTION_SHOW_ON_SCREEN -
+  null]
+packageName: com.instagram.android;
+
+
+className: android.widget.LinearLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/action_bar_root;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: android:id/content; checkable:
+false; checked:
+false; focusable:
+false; focused:
+false; selected:
+false; clickable:
+false; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; importantForAccessibility:
+false; visible:
+true; actions:
+[AccessibilityAction: A
+CTION_SELECT - null, AccessibilityAction: 
+ACTION_CLEAR_SELECTION - null, AccessibilityAction: 
+ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: 
+ACTION_SHOW_ON_SCREEN - null]
+packageName: com.instagram.android;
+
+
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: null; checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [AccessibilityAction:
+ACTION_SELECT - n
+ull, AccessibilityAction: ACTION_CLEAR_SELECTION -
+ null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - 
+ null, AccessibilityAction: ACTION_SHOW_ON_SCREEN -
+  null]
+packageName: com.instagram.android;
+
+
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/swipe_navigation_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.ViewGroup;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container_center_right_coordinator_layout;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: true;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container_right;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: false;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/activity_and_camera_shared_views_main_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.view.ViewGroup;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container_main_panel;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+read: unexpected EOF!
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container_main_wrapper;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_container_main;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/layout_recyclerview_parent_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.FrameLayout;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: null;
+tooltipText: null;
+viewIdResName: com.instagram.android:id/refreshable_container;
+checkable: false;
+checked: false;
+focusable: false;
+focused: false;
+selected: false;
+clickable: false;
+longClickable: false;
+contextClickable: false;
+enabled: true;
+password: false;
+scrollable: false;
+importantForAccessibility: false;
+visible: true;
+actions: [
+  AccessibilityAction: ACTION_SELECT - null, 
+  AccessibilityAction: ACTION_CLEAR_SELECTION - null, 
+  AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, 
+  AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: androidx.recyclerview.widget.
+ecyclerView; text:
+null; error:
+null; maxTextLength:
+-1; contentDescription:
+null; tooltipText:
+null; viewIdResName: com.instagram.android:id
+recycler_view; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+false; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+true; importantForAccessibility:
+true; visible:
+true; actions: [AccessibilityAction: ACTION_FOCUS -
+ null, AccessibilityAction: ACTION_SELECT - 
+ null, AccessibilityAction: ACTION_CLEAR_SELECTION -
+  null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SCROLL_FORWARD - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
+
+packageName: com.instagram.android;
+className: android.widget.Button;
+text: null;
+error: null;
+maxTextLength: -1;
+contentDescription: 1 
+hotos by Rover at
+row 1, column 1; tooltipText:
+null; viewIdResName:
+com.instagram.android:id
+image_button; checkable:
+false; checked:
+false; focusable:
+true; focused:
+false; selected:
+false; clickable:
+true; longClickable:
+false; contextClickable:
+false; enabled:
+true; password:
+false; scrollable:
+false; i
+mportantForAccessibility: true; visible: 
+true; actions: [AccessibilityAction: 
+ACTION_FOCUS - null, AccessibilityAction: 
+ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]
+
